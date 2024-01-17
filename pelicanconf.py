@@ -5,6 +5,7 @@ SITENAME = "sourcepirate blog"
 SITEURL = "https://sourcepirate.github.io"
 
 PATH = "content"
+STATIC_PATHS = ["images"]
 
 TIMEZONE = "Asia/Kolkata"
 
