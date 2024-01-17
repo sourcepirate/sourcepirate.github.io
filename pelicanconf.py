@@ -27,10 +27,10 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+SOCIAL = (('twitter', 'https://twitter.com/sourcepirate'),
+          ('github', 'https://github.com/sourcepirate'),
+          ('facebook','https://facebook.com/sathya.shadow'),
+          ('envelope','sathyanarrayanan@yandex.com'))
 
 DEFAULT_PAGINATION = 5
 
