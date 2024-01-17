@@ -9,7 +9,7 @@ PATH = "content"
 TIMEZONE = "Asia/Kolkata"
 
 DEFAULT_LANG = "en"
-THEME = "themes/cleanblog"
+THEME = "./themes/cleanblog"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
