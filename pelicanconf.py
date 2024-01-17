@@ -1,13 +1,15 @@
-AUTHOR = 'sourcepirate'
-SITENAME = 'sourcepirate blog'
-SITEURL = ""
+from __future__ import unicode_literals
+
+AUTHOR = "sourcepirate"
+SITENAME = "sourcepirate blog"
+SITEURL = "https://sourcepirate.github.io"
 
 PATH = "content"
 
-TIMEZONE = 'Asia/Kolkata'
+TIMEZONE = "Asia/Kolkata"
 
-DEFAULT_LANG = 'en'
-THEME='themes/cleanblog'
+DEFAULT_LANG = "en"
+THEME = "themes/cleanblog"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
